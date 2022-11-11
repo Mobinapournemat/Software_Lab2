@@ -25,3 +25,5 @@ while True:
         print(f'The result is {res}')
     elif op==5:
         break
+    else:
+        print("Please enter a valid number!")
