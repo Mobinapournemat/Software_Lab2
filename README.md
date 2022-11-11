@@ -1,1 +1,1 @@
-# Software_Lab2
+# Software_Lab2: Calculator Program
