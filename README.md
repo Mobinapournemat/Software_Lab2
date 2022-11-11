@@ -1,7 +1,7 @@
 # Software_Lab2: Calculator Program
 In this project we implement a simple cmd calculator program to learn how to use git and github.
 
-# Commands
+# Commands and Actions
 - `git clone https://github.com/Mobinapournemat/Software_Lab2.git`: clone the repository from github to local:
     ![](screenshots/clone.png)
 
@@ -21,6 +21,16 @@ In this project we implement a simple cmd calculator program to learn how to use
     ![](screenshots/branch.png)
     ![](screenshots/checkout.png)
 
+- `git merge <branch_name>`: merge the changes from the specified branch to the current branch:
+    ![](screenshots/merge.png)
 
+- Resolving the conflict: 
+    - Conflict 1: Between the two branches `dev/main` and `dev/math_class`:
+    ![](screenshots/conflict.png)
+
+    - Conflict 2: TBD
+
+- Creating pull request: between the bransch `dev/main` and master:
+    ![](screenshots/pullrequest.png)
 
 
