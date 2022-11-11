@@ -14,9 +14,13 @@ In this project we implement a simple cmd calculator program to learn how to use
 - `git push`: push the changes to github:
     ![](screenshots/push.png)
 
+- `git pull`: pull the changes from github:
+    ![](screenshots/pull.png)
+
 - `git branch <branch_name>` and `git checkout <branch_name>`: create a new branch and switch to it:
     ![](screenshots/branch.png)
     ![](screenshots/checkout.png)
+
 
 
 
