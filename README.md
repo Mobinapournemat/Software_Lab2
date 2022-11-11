@@ -34,3 +34,8 @@ In this project we implement a simple cmd calculator program to learn how to use
     ![](screenshots/pullrequest.png)
 
 
+<div dir='rtl'>
+سلام
+</dif>
+
+
