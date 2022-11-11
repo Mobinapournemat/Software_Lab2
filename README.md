@@ -34,3 +34,10 @@ In this project we implement a simple cmd calculator program to learn how to use
     ![](screenshots/pullrequest.png)
 
 
+# Questions
+<div dir="rtl">
+<b> سوال اول</b>
+مخزن Git پوشه .git/ داخل پروژه است. این مخزن تمام تغییرات ایجاد شده در فایل های پروژه شما را ردیابی می کند و در طول زمان یک تاریخچه ایجاد می کند. به این معنی که اگر پوشه .git/ را حذف کنید، تاریخچه پروژه خود را حذف می کنید.
+<hr>
+
+</div>
